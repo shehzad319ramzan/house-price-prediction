@@ -100,4 +100,3 @@ if predict_btn:
 # FOOTER
 # -------------------------
 st.markdown("---")
-st.markdown("💡 Built with Streamlit | ML Project for Learning")
